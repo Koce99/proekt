@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2025-2026\\12В УП СИ\\Brabches-ListManipulation\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj": {}
+    "D:\\Desktop\\зиденш\\proekt\\ListNumsActions2025\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj": {}
   },
   "projects": {
-    "D:\\2025-2026\\12В УП СИ\\Brabches-ListManipulation\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj": {
+    "D:\\Desktop\\зиденш\\proekt\\ListNumsActions2025\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2025-2026\\12В УП СИ\\Brabches-ListManipulation\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj",
+        "projectUniqueName": "D:\\Desktop\\зиденш\\proekt\\ListNumsActions2025\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj",
         "projectName": "ListNumsActions",
-        "projectPath": "D:\\2025-2026\\12В УП СИ\\Brabches-ListManipulation\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj",
-        "packagesPath": "C:\\Users\\Rumyana\\.nuget\\packages\\",
-        "outputPath": "D:\\2025-2026\\12В УП СИ\\Brabches-ListManipulation\\ListNumsActions2025\\ListNumsActions\\obj\\",
+        "projectPath": "D:\\Desktop\\зиденш\\proekt\\ListNumsActions2025\\ListNumsActions2025\\ListNumsActions\\ListNumsActions.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\зиденш\\proekt\\ListNumsActions2025\\ListNumsActions2025\\ListNumsActions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rumyana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
